@@ -1,6 +1,6 @@
 [
   {
     "package": "fwildclusterboot",
-    "oncran": false
+    "oncran": true
   }
 ]
