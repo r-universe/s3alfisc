@@ -8,3 +8,8 @@
 	url = https://github.com/s3alfisc/fwildclusterboot
 	shallow = true
 	registered = true
+[submodule "wildboottestjlr"]
+	path = wildboottestjlr
+	url = https://github.com/s3alfisc/wildboottestjlr
+	shallow = true
+	registered = false
