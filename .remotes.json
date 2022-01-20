@@ -4,5 +4,23 @@
     "url": "https://github.com/s3alfisc/JuliaConnectoR.utils",
     "via": ["fwildclusterboot"],
     "from": "fwildclusterboot"
+  },
+  {
+    "package": "JuliaConnectoR.utils",
+    "url": "https://github.com/s3alfisc/JuliaConnectoR.utils",
+    "via": ["rwolf", "wildboottestjlr", "fwildclusterboot"],
+    "from": "rwolf"
+  },
+  {
+    "package": "fwildclusterboot",
+    "url": "https://github.com/s3alfisc/fwildclusterboot",
+    "via": ["rwolf", "wildboottestjlr"],
+    "from": "rwolf"
+  },
+  {
+    "package": "wildboottestjlr",
+    "url": "https://github.com/s3alfisc/wildboottestjlr",
+    "via": ["rwolf"],
+    "from": "rwolf"
   }
 ]
