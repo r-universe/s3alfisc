@@ -8,3 +8,8 @@
 	url = https://github.com/s3alfisc/fwildclusterboot
 	shallow = true
 	registered = true
+[submodule "JuliaConnectoR.utils"]
+	path = JuliaConnectoR.utils
+	url = https://github.com/s3alfisc/JuliaConnectoR.utils
+	shallow = true
+	registered = false
