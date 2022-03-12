@@ -2,5 +2,11 @@
   {
     "package": "fwildclusterboot",
     "oncran": true
+  },
+  {
+    "package": "rwolf"
+  },
+  {
+    "package": "JuliaConnectoR.utils"
   }
 ]
