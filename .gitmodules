@@ -8,9 +8,9 @@
 	url = https://github.com/s3alfisc/fwildclusterboot
 	shallow = true
 	registered = true
-[submodule "rwolf"]
-	path = rwolf
-	url = https://github.com/s3alfisc/rwolf
+[submodule "wildrwolf"]
+	path = wildrwolf
+	url = https://github.com/s3alfisc/wildrwolf
 	shallow = true
 	registered = true
 [submodule "JuliaConnectoR.utils"]
