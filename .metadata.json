@@ -7,6 +7,9 @@
     "package": "wildrwolf"
   },
   {
+    "package": "CRV3J"
+  },
+  {
     "package": "JuliaConnectoR.utils"
   }
 ]

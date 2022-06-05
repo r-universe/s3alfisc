@@ -13,6 +13,11 @@
 	url = https://github.com/s3alfisc/wildrwolf
 	shallow = true
 	registered = true
+[submodule "CRV3J"]
+	path = CRV3J
+	url = https://github.com/s3alfisc/wildrwolf
+	shallow = true
+	registered = true
 [submodule "JuliaConnectoR.utils"]
 	path = JuliaConnectoR.utils
 	url = https://github.com/s3alfisc/JuliaConnectoR.utils
