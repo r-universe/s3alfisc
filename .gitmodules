@@ -15,7 +15,7 @@
 	registered = true
 [submodule "CRV3J"]
 	path = CRV3J
-	url = https://github.com/s3alfisc/wildrwolf
+	url = https://github.com/s3alfisc/CRV3J
 	shallow = true
 	registered = true
 [submodule "JuliaConnectoR.utils"]
