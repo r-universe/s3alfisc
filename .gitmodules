@@ -13,9 +13,9 @@
 	url = https://github.com/s3alfisc/wildrwolf
 	shallow = true
 	registered = true
-[submodule "CRV3J"]
-	path = CRV3J
-	url = https://github.com/s3alfisc/CRV3J
+[submodule "summclust"]
+	path = summclust
+	url = https://github.com/s3alfisc/summclust
 	shallow = true
 	registered = true
 [submodule "JuliaConnectoR.utils"]
