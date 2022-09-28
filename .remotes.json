@@ -1,8 +1,20 @@
 [
   {
+    "package": "fwildclusterboot",
+    "url": "https://github.com/s3alfisc/fwildclusterboot",
+    "via": ["wildrwolf"],
+    "from": "wildrwolf"
+  },
+  {
     "package": "summclust",
     "url": "https://github.com/s3alfisc/summclust",
     "via": ["fwildclusterboot"],
     "from": "fwildclusterboot"
+  },
+  {
+    "package": "summclust",
+    "url": "https://github.com/s3alfisc/summclust",
+    "via": ["wildrwolf", "fwildclusterboot"],
+    "from": "wildrwolf"
   }
 ]
