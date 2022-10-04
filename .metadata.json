@@ -7,7 +7,8 @@
     "package": "wildrwolf"
   },
   {
-    "package": "summclust"
+    "package": "summclust",
+    "oncran": false
   },
   {
     "package": "JuliaConnectoR.utils"
