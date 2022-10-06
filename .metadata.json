@@ -4,11 +4,14 @@
     "oncran": true
   },
   {
+    "package": "summclust",
+    "oncran": true
+  },
+  {
     "package": "wildrwolf"
   },
   {
-    "package": "summclust",
-    "oncran": false
+    "package": "wildwyoung"
   },
   {
     "package": "JuliaConnectoR.utils"

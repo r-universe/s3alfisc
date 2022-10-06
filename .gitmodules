@@ -8,14 +8,19 @@
 	url = https://github.com/s3alfisc/fwildclusterboot
 	shallow = true
 	registered = true
+[submodule "summclust"]
+	path = summclust
+	url = https://github.com/s3alfisc/summclust
+	shallow = true
+	registered = true
 [submodule "wildrwolf"]
 	path = wildrwolf
 	url = https://github.com/s3alfisc/wildrwolf
 	shallow = true
 	registered = true
-[submodule "summclust"]
-	path = summclust
-	url = https://github.com/s3alfisc/summclust
+[submodule "wildwyoung"]
+	path = wildwyoung
+	url = https://github.com/s3alfisc/wildwyoung
 	shallow = true
 	registered = true
 [submodule "JuliaConnectoR.utils"]
