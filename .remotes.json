@@ -6,9 +6,15 @@
     "from": "wildrwolf"
   },
   {
-    "package": "summclust",
-    "url": "https://github.com/s3alfisc/summclust",
-    "via": ["wildrwolf", "fwildclusterboot"],
+    "package": "fwildclusterboot",
+    "url": "https://github.com/s3alfisc/fwildclusterboot",
+    "via": ["wildrwolf", "wildwyoung"],
+    "from": "wildrwolf"
+  },
+  {
+    "package": "wildwyoung",
+    "url": "https://github.com/s3alfisc/wildwyoung",
+    "via": ["wildrwolf"],
     "from": "wildrwolf"
   }
 ]
