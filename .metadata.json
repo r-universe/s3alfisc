@@ -1,7 +1,6 @@
 [
   {
-    "package": "fwildclusterboot",
-    "oncran": true
+    "package": "fwildclusterboot"
   },
   {
     "package": "summclust",
