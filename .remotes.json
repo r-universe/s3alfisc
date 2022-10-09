@@ -1,0 +1,14 @@
+[
+  {
+    "package": "fwildclusterboot",
+    "url": "https://github.com/s3alfisc/fwildclusterboot",
+    "via": ["wildwyoung"],
+    "from": "wildwyoung"
+  },
+  {
+    "package": "wildrwolf",
+    "url": "https://github.com/s3alfisc/wildrwolf",
+    "via": ["wildwyoung"],
+    "from": "wildwyoung"
+  }
+]
