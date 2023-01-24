@@ -2,18 +2,6 @@
   {
     "package": "fwildclusterboot",
     "url": "https://github.com/s3alfisc/fwildclusterboot",
-    "via": ["wildrwolf"],
-    "from": "wildrwolf"
-  },
-  {
-    "package": "fwildclusterboot",
-    "url": "https://github.com/s3alfisc/fwildclusterboot",
-    "via": ["wildrwolf", "wildwyoung"],
-    "from": "wildrwolf"
-  },
-  {
-    "package": "fwildclusterboot",
-    "url": "https://github.com/s3alfisc/fwildclusterboot",
     "via": ["wildwyoung"],
     "from": "wildwyoung"
   },
@@ -28,11 +16,5 @@
     "url": "https://github.com/s3alfisc/wildrwolf",
     "via": ["wildwyoung"],
     "from": "wildwyoung"
-  },
-  {
-    "package": "wildwyoung",
-    "url": "https://github.com/s3alfisc/wildwyoung",
-    "via": ["wildrwolf"],
-    "from": "wildrwolf"
   }
 ]
