@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/s3alfisc/universe
-	shallow = true
 	branch = HEAD
 [submodule "fwildclusterboot"]
 	path = fwildclusterboot
 	url = https://github.com/s3alfisc/fwildclusterboot
-	shallow = true
-	registered = true
 [submodule "summclust"]
 	path = summclust
 	url = https://github.com/s3alfisc/summclust
-	shallow = true
-	registered = true
 [submodule "wildrwolf"]
 	path = wildrwolf
 	url = https://github.com/s3alfisc/wildrwolf
-	shallow = true
-	registered = true
 [submodule "wildwyoung"]
 	path = wildwyoung
 	url = https://github.com/s3alfisc/wildwyoung
-	shallow = true
-	registered = true
 [submodule "JuliaConnectoR.utils"]
 	path = JuliaConnectoR.utils
 	url = https://github.com/s3alfisc/JuliaConnectoR.utils
-	shallow = true
-	registered = true
