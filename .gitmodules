@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/s3alfisc/universe
 	branch = HEAD
+[submodule "JuliaConnectoR.utils"]
+	path = JuliaConnectoR.utils
+	url = https://github.com/s3alfisc/JuliaConnectoR.utils
 [submodule "fwildclusterboot"]
 	path = fwildclusterboot
 	url = https://github.com/s3alfisc/fwildclusterboot
@@ -14,6 +17,3 @@
 [submodule "wildwyoung"]
 	path = wildwyoung
 	url = https://github.com/s3alfisc/wildwyoung
-[submodule "JuliaConnectoR.utils"]
-	path = JuliaConnectoR.utils
-	url = https://github.com/s3alfisc/JuliaConnectoR.utils
