@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/s3alfisc/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "JuliaConnectoR.utils"]
-	path = JuliaConnectoR.utils
-	url = https://github.com/s3alfisc/JuliaConnectoR.utils
 [submodule "fwildclusterboot"]
 	path = fwildclusterboot
 	url = https://github.com/s3alfisc/fwildclusterboot
@@ -14,6 +11,3 @@
 [submodule "wildrwolf"]
 	path = wildrwolf
 	url = https://github.com/s3alfisc/wildrwolf
-[submodule "wildwyoung"]
-	path = wildwyoung
-	url = https://github.com/s3alfisc/wildwyoung
