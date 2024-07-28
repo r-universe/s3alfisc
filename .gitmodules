@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fwildclusterboot"]
-	path = fwildclusterboot
-	url = https://github.com/s3alfisc/fwildclusterboot
 [submodule "summclust"]
 	path = summclust
 	url = https://github.com/s3alfisc/summclust
-[submodule "wildrwolf"]
-	path = wildrwolf
-	url = https://github.com/s3alfisc/wildrwolf
